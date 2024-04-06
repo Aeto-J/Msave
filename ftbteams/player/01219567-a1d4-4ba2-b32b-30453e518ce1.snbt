@@ -1,0 +1,20 @@
+{
+	id: "01219567-a1d4-4ba2-b32b-30453e518ce1"
+	type: "player"
+	player_name: "Sn0k_Nine"
+	ranks: {
+		01219567-a1d4-4ba2-b32b-30453e518ce1: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Sn0k_Nine"
+		"ftbteams:color": "#FC59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

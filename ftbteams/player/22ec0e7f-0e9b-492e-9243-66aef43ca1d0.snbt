@@ -1,0 +1,20 @@
+{
+	id: "22ec0e7f-0e9b-492e-9243-66aef43ca1d0"
+	type: "player"
+	player_name: "Aetto"
+	ranks: {
+		22ec0e7f-0e9b-492e-9243-66aef43ca1d0: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Aetto"
+		"ftbteams:color": "#CC59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

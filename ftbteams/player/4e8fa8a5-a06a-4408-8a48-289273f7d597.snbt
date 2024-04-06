@@ -1,0 +1,20 @@
+{
+	id: "4e8fa8a5-a06a-4408-8a48-289273f7d597"
+	type: "player"
+	player_name: "Tsunartiste"
+	ranks: {
+		4e8fa8a5-a06a-4408-8a48-289273f7d597: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Tsunartiste"
+		"ftbteams:color": "#6C59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
